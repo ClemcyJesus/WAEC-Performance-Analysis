@@ -65,7 +65,7 @@ Female performance increased consistently from 2016 to 2021.
 - The gap between male and female performance continues to close, indicating improved educational equality.
 Insight: Female candidates demonstrate stronger performance growth, suggesting successful outcomes from gender-focused educational initiatives.
 
-### 🚀School Type Trend Analysis
+### 🚀School Type Trend Analysis 
 Key Observations:
 
 - Private schools generally maintain higher performance rates than public schools.
