@@ -1,63 +1,130 @@
-# WAEC-Performance-Analysis
-This project provides an in-depth analysis of students’ performance in WAEC across years, subjects, states, and gender. It aims to uncover meaningful trends, evaluate academic strengths and weaknesses, and generate actionable insights that can help education stakeholders improve teaching and learning outcomes.
+# WAEC Performance Analysis
+
+This project provides an in-depth analysis of students' performance in WAEC across years, subjects, states, and gender; aims at uncovering meaningful trends, evaluate the academic strengths and weaknesses to produce actionable insights that support education stakeholders to improving teaching and learning outcomes. It focuses primarily on two foundational subjects that serve as critical indicators of students' competence and readiness for higher education.
 
 
-## Dataset Description
+### 🚀Dataset Overview
 
-The dataset contains examination records with the following fields:
-
-- State – Name of the Nigerian state
-- Gender – Male / Female
-- Year – Year of examination
-- Total Sat – Total number of candidates who sat for WAEC
-- 5 Credits (with Maths & English) – Number of students with five credits including Maths and English
-- 5 Credits (with Maths ) – Number of students with five credits including Maths
-- 5 Credits (with English) – Number of students with five credits including English
-- Performance (%) – Percentage of students with 5 credits including Maths & English
-
-## Dashboard Pages & Insights
-### KPI Overview
-
-- Percentage Performance: 60.72%
-- Male Performance: 46.24K
-- Female Performance: 52.17K
-- 💡 Insight: Female students slightly outperform males in overall performance, contributing to a higher success rate.
+- The dataset contains WAEC (West African Examinations Council) performance records with the following fields:
+- State – Represents each of the five Nigerian states analyzed
+- Year – Examination year (2016 to 2021)
+- Subject – Subjects analyzed (Mathematics and English Language)
+- Gender – Male and Female candidates
+- Score / Grade – Students’ performance scores or grades
+- Pass Rate (%) – Percentage of students who passed
 
 
-## Gender Trend Analysis
+### 🚀Key Analysis Goals 
 
-- Visuals show performance by year and state, comparing male and female candidates.
-- Lagos, Ogun, and Rivers record the highest number of successful candidates.
-- Both genders show a steady improvement trend between 2018–2021.
-💡 Insight: Female performance exhibits a sharper upward trend compared to males in recent years.
+- Compare student performance across states and years
+- Evaluate gender-based differences in Mathematics and English Language
+- Identify best and worst-performing states
+- Determine subject difficulty trends over time
+- Generate data-driven insights for education policy and intervention
+
+### 🚀Insights & KPIs 
+
+- Average and total pass rate across years and subjects
+- State performance ranking (best vs. worst performing)
+- Gender comparison in core subjects
+- Year-over-year trend of improvement or decline
+- Correlation between subject and performance outcome
+
+### 🚀Tools & Skills Used 
+
+- Power BI – Dashboards for visual comparison across states and gender
+- Excel – Data cleaning, aggregation, and pivot chart summaries
+- Python (Pandas, Matplotlib) – Exploratory data analysis and visualization
+- SQL – Querying and performance aggregation
+
+### 🚀Deliverables �
+
+- Power BI interactive performance dashboard
+- Python notebooks for EDA and visualization
+- Excel sheets with summary statistics and trends
+-  Comprehensive insight documentation for education stakeholders
+
+### 🚀Business Impact 
+
+This analysis empowers educational policymakers and institutions to:
+
+- Identify learning gaps between states and genders
+- Design targeted interventions to improve weak areas
+- Track progress over time and measure impact of reforms
+- Support data-driven decision-making in education
 
 
-## Participation vs Performance by Gender
+### 🚀Gender Trend Analysis
+The gender trend analysis examines the performance of male and female candidates over multiple years and across states.
 
-- Male and Female participation analyzed by year and state.
-- Relationship between number of candidates and those with 5 credits including Maths & English.
-- Insight: States with higher participation (like Lagos and Ogun) maintain consistent performance, but participation does not always guarantee higher success rates.
+Key Observations:
+Female performance increased consistently from 2016 to 2021.
 
+- Male performance also improved but showed slower growth.
+- States such as Lagos, Ogun, and Rivers recorded the highest number of successful candidates for both genders.
+- The gap between male and female performance continues to close, indicating improved educational equality.
+Insight: Female candidates demonstrate stronger performance growth, suggesting successful outcomes from gender-focused educational initiatives.
 
-  ## Tools & Technologies
+### 🚀School Type Trend Analysis
+Key Observations:
 
-- Power BI – Data cleaning, modeling, and visualization
-- Excel – Data preparation and preprocessing
-- Python - Jupiter Notebook
-- DAX – Used for calculated measures (e.g., percentage performance, total 5 credits)
-
-
-## Key Insights
-
-- Female students show stronger overall performance consistency.
-- Lagos leads both genders in total passes and participation.
-- Steady upward trend observed from 2018–2021 in performance rates.
-- Gender parity improving — gap between male and female performance narrowing yearly.
+- Private schools generally maintain higher performance rates than public schools.
+- Public schools show noticeable year-on-year improvement, narrowing the gap with private schools.
+- In states like Lagos and Ogun, public and private schools perform relatively closely.
+Insight: Private schools continue to lead in performance, but public schools are showing steady improvement, indicating effective educational policies and infrastructural growth.
 
 
+### 🚀Yearly Performance Trend
+This part of the dashboard tracks performance patterns across the years.
 
- ## Recommendations
+Key Observations:
+- There was a dip in overall performance around 2018.
+-  Both male and female performance improved significantly from 2019 to 2021.
+- Female candidates experienced a sharper upward performance curve compared to males.
+Insight: The consistent upward trend from 2019 onward may be linked to improved educational programs and better preparation strategies by schools.
 
-- Continue supporting female participation and STEM programs.
-- Target low-performing states with tailored educational interventions.
-- Maintain consistent WAEC preparation policies across all states.
+### Performance vs Participation Trend (Male and Female)
+This analysis compares how the number of candidates sitting for WAEC affects the overall success rate.
+
+### 🚀Key Observations
+- States with higher participation, such as Lagos, Ogun, and Rivers, maintain strong performance outcomes.
+- Increased participation in some states does not always result in better performance, highlighting disparities in teaching quality.
+= Female participation has risen sharply, with a corresponding increase in performance levels.
+Insight: While access to education has improved, there’s a need to focus on improving the quality of learning to convert participation into performance gains.
+
+### 🚀State Trend Performance
+
+The state trend analysis identifies which states are leading or lagging in performance
+
+Top Performing States:
+- Lagos
+- Ogun
+- Rivers
+
+States Showing Improvement:
+
+- Kaduna
+- Edo
+- Anambra
+Insight: Southern states consistently achieve better results due to stronger educational infrastructure and policy implementation. However, Northern states show positive growth trends, signaling potential for balanced national performance in the near future.
+
+### 🚀Summary of Insights
+
+- Female students outperform males overall, though the gap is narrowing.
+- Private schools maintain higher performance levels, but public schools show improvement.
+- Performance has improved steadily since 2019, following a slight dip in 2018.
+- Increased participation doesn’t always translate to better performance — teaching quality remains a key factor.
+- Lagos and Ogun continue to lead in both participation and academic success.
+
+### 🚀Recommendations
+
+- Enhance teacher training and student support, especially in low-performing states.
+- Strengthen educational programs that encourage female participation and academic excellence.
+- Improve resources and infrastructure in public schools to close the gap with private institutions.
+- Continue monitoring state-level trends to guide education policy decisions.
+
+### 🚀Contact Details 
+
+##### Email: clementt48@gmail.com
+##### Phone/WhatsApp: +2348164649985
+##### LinkedIn: linkedin.com/in/clement-thomas-096761343
