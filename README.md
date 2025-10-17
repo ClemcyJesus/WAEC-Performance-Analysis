@@ -92,8 +92,7 @@ This analysis compares how the number of candidates sitting for WAEC affects the
 = Female participation has risen sharply, with a corresponding increase in performance levels.
 Insight: While access to education has improved, there’s a need to focus on improving the quality of learning to convert participation into performance gains.
 
-### 🚀State Trend Performance
-
+### 🚀State Trend Performance 
 The state trend analysis identifies which states are leading or lagging in performance
 
 Top Performing States:
