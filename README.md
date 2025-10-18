@@ -2,6 +2,8 @@
 
 This project provides an in-depth analysis of students' performance in WAEC across years, subjects, states, and gender; aims at uncovering meaningful trends, evaluate the academic strengths and weaknesses to produce actionable insights that support education stakeholders to improving teaching and learning outcomes. It focuses primarily on two foundational subjects that serve as critical indicators of students' competence and readiness for higher education.
 
+https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/Gender%20Trend.png
+
 
 ### 🚀Dataset Overview
 
