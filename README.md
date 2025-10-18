@@ -22,7 +22,8 @@ This project provides an in-depth analysis of students' performance in WAEC acro
 - Determine subject difficulty trends over time
 - Generate data-driven insights for education policy and intervention
 
-### 🚀Insights & KPIs 
+### 🚀Insights & KPIs  ![](https://raw.githubusercontent.com/ClemcyJesus/WAEC-Performance-Analysis/main/KPIs.png)
+
 
 - Average and total pass rate across years and subjects
 - State performance ranking (best vs. worst performing)
@@ -66,8 +67,7 @@ Female performance increased consistently from 2016 to 2021.
 - The gap between male and female performance continues to close, indicating improved educational equality.
 Insight: Female candidates demonstrate stronger performance growth, suggesting successful outcomes from gender-focused educational initiatives.
 
-### 🚀School Type Trend Analysis  https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/School%20Type%20Trend%20Analysis.png
-Key Observations:
+### 🚀School Type Trend Analysis ![](https://raw.githubusercontent.com/ClemcyJesus/WAEC-Performance-Analysis/main/School%20Type%20Trend%20Analysis.png)
 
 - Private schools generally maintain higher performance rates than public schools.
 - Public schools show noticeable year-on-year improvement, narrowing the gap with private schools.
@@ -84,8 +84,8 @@ Key Observations:
 - Female candidates experienced a sharper upward performance curve compared to males.
 Insight: The consistent upward trend from 2019 onward may be linked to improved educational programs and better preparation strategies by schools.
 
-### Performance vs Participation Trend (Male and Female) https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/participation%20Perf.%20Comparison.png
-This analysis compares how the number of candidates sitting for WAEC affects the overall success rate.
+### Performance vs Participation Trend (Male and Female) ![](https://raw.githubusercontent.com/ClemcyJesus/WAEC-Performance-Analysis/main/participation%20Perf.%20Comparison.png)
+
 
 ### 🚀Key Observations
 - States with higher participation, such as Lagos, Ogun, and Rivers, maintain strong performance outcomes.
@@ -93,8 +93,8 @@ This analysis compares how the number of candidates sitting for WAEC affects the
 = Female participation has risen sharply, with a corresponding increase in performance levels.
 Insight: While access to education has improved, there’s a need to focus on improving the quality of learning to convert participation into performance gains.
 
-### 🚀State Trend Performance https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/State%20Trend.png
-The state trend analysis identifies which states are leading or lagging in performance
+### 🚀State Trend Performance ![](https://raw.githubusercontent.com/ClemcyJesus/WAEC-Performance-Analysis/main/State%20Trend.png)
+
 
 Top Performing States:
 - Lagos
