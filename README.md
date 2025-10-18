@@ -124,6 +124,10 @@ Insight: Southern states consistently achieve better results due to stronger edu
 - Continue monitoring state-level trends to guide education policy decisions.
 
 ### 🚀Contact Details 
-##### Email: clementt48@gmail.com
-##### Phone/WhatsApp: +2348164649985
-##### LinkedIn: linkedin.com/in/clement-thomas-096761343
+- Email: clementt48@gmail.com
+- Phone/WhatsApp: +2348164649985
+- LinkedIn: linkedin.com/in/clement-thomas-096761343
+
+
+## Technologies Used 💻
+Visualization: Built using a data visualization library (like Python(Matplotlib, Seaborn and pandas) /as well as Power BI tool)
