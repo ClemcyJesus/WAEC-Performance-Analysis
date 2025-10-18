@@ -2,8 +2,6 @@
 
 This project provides an in-depth analysis of students' performance in WAEC across years, subjects, states, and gender; aims at uncovering meaningful trends, evaluate the academic strengths and weaknesses to produce actionable insights that support education stakeholders to improving teaching and learning outcomes. It focuses primarily on two foundational subjects that serve as critical indicators of students' competence and readiness for higher education.
 
-https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/Gender%20Trend.png
-
 
 ### 🚀Dataset Overview
 
@@ -56,7 +54,8 @@ This analysis empowers educational policymakers and institutions to:
 - Support data-driven decision-making in education
 
 
-### 🚀Gender Trend Analysis
+### 🚀Gender Trend Analysis  ![Gender Trend](Gender%20Trend.png)
+
 The gender trend analysis examines the performance of male and female candidates over multiple years and across states.
 
 Key Observations:
@@ -67,7 +66,7 @@ Female performance increased consistently from 2016 to 2021.
 - The gap between male and female performance continues to close, indicating improved educational equality.
 Insight: Female candidates demonstrate stronger performance growth, suggesting successful outcomes from gender-focused educational initiatives.
 
-### 🚀School Type Trend Analysis 
+### 🚀School Type Trend Analysis  https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/School%20Type%20Trend%20Analysis.png
 Key Observations:
 
 - Private schools generally maintain higher performance rates than public schools.
@@ -85,7 +84,7 @@ Key Observations:
 - Female candidates experienced a sharper upward performance curve compared to males.
 Insight: The consistent upward trend from 2019 onward may be linked to improved educational programs and better preparation strategies by schools.
 
-### Performance vs Participation Trend (Male and Female)
+### Performance vs Participation Trend (Male and Female) https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/participation%20Perf.%20Comparison.png
 This analysis compares how the number of candidates sitting for WAEC affects the overall success rate.
 
 ### 🚀Key Observations
@@ -94,7 +93,7 @@ This analysis compares how the number of candidates sitting for WAEC affects the
 = Female participation has risen sharply, with a corresponding increase in performance levels.
 Insight: While access to education has improved, there’s a need to focus on improving the quality of learning to convert participation into performance gains.
 
-### 🚀State Trend Performance 
+### 🚀State Trend Performance https://github.com/ClemcyJesus/WAEC-Performance-Analysis/blob/main/State%20Trend.png
 The state trend analysis identifies which states are leading or lagging in performance
 
 Top Performing States:
